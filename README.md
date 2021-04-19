@@ -1,11 +1,13 @@
-### Привет, меня зовут Полина! 👋
+### Привет, меня зовут Полина!
 
 - Люблю кодить и фронтенд 
 - Заканчиваю курс по веб-разработке от Я.Практикума
 - Хочу применить и преумножить свои навыки в рельных проектах
 - Стараюсь писать чистый и стурктурированный код
 
-  Связаться со мной: [<img alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/polina_ponomareva1)
+### Связаться со мной:
+
+  [<img alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/polina_ponomareva1)
 
 ### Языки и технологии:
 
@@ -20,6 +22,7 @@
 
 
 ### Немного статистики:
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
+<div>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
+</div>
