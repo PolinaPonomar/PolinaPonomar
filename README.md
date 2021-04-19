@@ -5,7 +5,7 @@
 - Хочу применить и преумножить свои навыки в рельных проектах
 - Стараюсь писать чистый и стурктурированный код
 
-  Связаться со мной: [<img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][https://t.me/polina_ponomareva1]
+  Связаться со мной: [<img alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/polina_ponomareva1)
 
 ### Языки и технологии:
 
