@@ -23,6 +23,6 @@
 </br>
 ### Немного статистики:
 <div>
-  <img align="left" alt="codeSTACKr's GitHub Stats" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
-  <img align="left" alt="codeSTACKr's GitHub Stats" height="130" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" width="320" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" width="320" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
 </div>
