@@ -19,10 +19,10 @@
 ### Немного статистики:
 
 <div>
-  <img align="left" alt="codeSTACKr's GitHub Stats" height="200" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
   <img align="left" alt="codeSTACKr's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
 </div>
 
-### Связаться со мной:
+<!-- ### Связаться со мной:
 
-  [<img alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/polina_ponomareva1)
+  [<img alt="Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/polina_ponomareva1) -->
