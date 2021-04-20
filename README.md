@@ -1,6 +1,6 @@
 <img align="right" height="250" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
 
-<h1 align="center">Привет, меня зовут Полина!</h1>
+###                                                           Привет, меня зовут Полина!
 ____
 <ul>
 <li>Люблю кодить и фронтенд </li>
