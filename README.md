@@ -8,10 +8,10 @@
 <li>Заканчиваю курс по веб-разработке от <a href="https://praktikum.yandex.ru/">Я.Практикума</a></li>
 <li>Выпускница НИЯУ МИФИ</li>
 <li>В данный момент нахожусь в поиске работы: хочу развиваться в области фронтед-разработки и приносить пользу команде</li>
-</ul>
-<h4>Связаться со мной:  <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a></h3>  
+</ul>  
 
-### Мой стек:
+<h3 align="left">Мой стек:</h3>
+<h3 align="right">Связаться со мной:  <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a></h3>
 <p>
   <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
