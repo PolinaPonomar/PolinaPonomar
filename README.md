@@ -1,5 +1,6 @@
+<img align="right" height="300" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
+
 ### Привет, меня зовут Полина!
-<img align="right" height="300" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />
 <ul>
 <li>Люблю кодить и фронтенд </li>
 <li>Заканчиваю курс по веб-разработке от Я.Практикума</a>.</li>
@@ -22,10 +23,10 @@
 
 ### Немного статистики:
 
-<div>
-  <img align="left" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
-  <img align="right" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
-</div>A
+<div height="150">
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
+  <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
+</div>
 
 <!-- ### Связаться со мной:
 
