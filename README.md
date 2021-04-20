@@ -2,7 +2,7 @@
 
 <h1 align="center">Привет, добро пожаловать на мой Github!</h1> 
 
-### Факты обо мне:
+<h3>Факты обо мне:</h3>
 <ul>
 <li>Процесс кодинга приносит мне большое удовльствие 🖤</li>
 <li>Заканчиваю курс по веб-разработке от <a href="https://praktikum.yandex.ru/">Я.Практикума</a></li>
@@ -10,7 +10,7 @@
 <li>В данный момент нахожусь в поиске работы: хочу развиваться в области фронтед-разработки и приносить пользу команде</li>
 </ul>  
 
-<h3 align="left">Мой стек:</h3>
+<h3>Мой стек:</h3>
 <p>
   <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -23,8 +23,10 @@
 </p>
 </br>
 
-### Немного статистики:
-<img align="left" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact&theme=tokyonight" />
-<img align="right" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true&theme=tokyonight" /> 
+<h3>Немного статистики:</h3>
+<div>
+  <img align="left" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact&theme=tokyonight" />
+  <img align="right" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true&theme=tokyonight" />
+</div>
 
 <h3 align="left">Связаться со мной: <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a></h3>
