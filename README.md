@@ -28,5 +28,6 @@
   <img align="left" style="margin-right: 10px" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact&theme=tokyonight" />
   <img align="left" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true&theme=tokyonight" />
 </div>
+</br>
 
 <h3 align="left">Связаться со мной: <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a></h3>
