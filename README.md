@@ -22,8 +22,8 @@
 </br>
 
 ### Немного статистики:
-<img align="left" alt="codeSTACKr's GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
-<img align="right" alt="codeSTACKr's GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
+<img align="right" alt="codeSTACKr's GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
 
 
 <!-- ### Связаться со мной:
