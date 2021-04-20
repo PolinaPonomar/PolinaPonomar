@@ -1,10 +1,10 @@
 ### Привет, меня зовут Полина!:space_invader:
-
+![hello](https://media.giphy.com/media/3ohc1fouQAB89eHXK8/giphy.gif)
 - Люблю кодить и фронтенд 
 - Заканчиваю курс по веб-разработке от Я.Практикума
 - Хочу применить и преумножить свои навыки в рельных проектах
 - Стараюсь писать чистый и стурктурированный код
-<img align="right" alt="hello" src="https://media.giphy.com/media/3ohc1fouQAB89eHXK8/giphy.gif" />
+
 
 ### Языки и технологии:   
 <p>
@@ -22,9 +22,9 @@
 ### Немного статистики:
 
 <div>
-  <img align="left" alt="codeSTACKr's GitHub Stats" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact" />
   <img align="right" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true" />
-</div>
+</div>A
 
 <!-- ### Связаться со мной:
 
