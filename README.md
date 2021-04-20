@@ -9,7 +9,7 @@
 <li>Выпускница НИЯУ МИФИ</li>
 <li>В данный момент нахожусь в поиске работы: хочу развиваться в области фронтед-разработки и приносить пользу команде</li>
 </ul>
-<p>Связаться со мной:  <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" width="20px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png"/></a></p>
+<p>Связаться со мной:  <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_logo_icon_168691.png"/></a></p>
 
 ### Языки и технологии:
 <p>
