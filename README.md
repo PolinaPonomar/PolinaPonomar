@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
+<img align="right" height="250" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
 
 <h1 align="center">Привет, добро пожаловать на мой Github!</h1> 
 
@@ -9,7 +9,7 @@
 <li>Выпускница НИЯУ МИФИ</li>
 <li>В данный момент нахожусь в поиске работы: хочу развиваться в области фронтед-разработки и приносить пользу команде</li>
 </ul>
-<h6>Связаться со мной:  <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a></h3>  
+<h5>Связаться со мной:  <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a></h3>  
 
 ### Мой стек:
 <p>
