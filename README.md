@@ -1,5 +1,5 @@
 ### Привет, меня зовут Полина!:space_invader:
-![hello](https://media.giphy.com/media/3ohc1fouQAB89eHXK8/giphy.gif)
+<img align="right" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />
 - Люблю кодить и фронтенд 
 - Заканчиваю курс по веб-разработке от Я.Практикума
 - Хочу применить и преумножить свои навыки в рельных проектах
