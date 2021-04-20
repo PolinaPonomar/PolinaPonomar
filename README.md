@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
+<img align="right" height="250" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
 
 ### Привет, меня зовут Полина!
 <ul>
