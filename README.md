@@ -29,6 +29,6 @@
 
 <h3>Немного статистики:</h3>
 <p>
-  <img align="left" style="margin-right: 10px" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact&theme=tokyonight" />
-  <img align="left" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact&theme=tokyonight" />
+  <img align="right" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true&theme=tokyonight" />
 </p>
