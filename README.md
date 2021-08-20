@@ -1,5 +1,5 @@
 <div>
-<img align="right" height="250" padding-left="60px" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
+<img align="right" height="250" style="padding-left=60px" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
 <h1 align="center">Привет, добро пожаловать на мой Github!</h1>
 </div>
 
