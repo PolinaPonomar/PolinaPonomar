@@ -1,7 +1,5 @@
-<div>
 <img align="right" height="250" src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" />   
 <h1 align="center">Привет, добро пожаловать на мой Github!</h1>
-</div>
 
 <h3>Факты обо мне:</h3>
 <ul>
@@ -30,7 +28,7 @@
 </p>
 
 <h3>Немного статистики:</h3>
-<div>
+<p>
   <img align="left" style="margin-right: 10px" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolinaPonomar&langs_count=8&layout=compact&theme=tokyonight" />
   <img align="left" alt="codeSTACKr's GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=PolinaPonomar&show_icons=true&theme=tokyonight" />
-</div>
+</p>
