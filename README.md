@@ -8,7 +8,7 @@
   <li>Окончила НИЯУ МИФИ по направлению ядерная физика и технологии</li>
   <li>Всегда стараюсь следить за чистотой и понятностью кода, открыта и доброжелательна :) </li>
   <li>Нахожусь в поиске работы: хочу развиваться в области фронтед-разработки и приносить пользу команде</li>
-  <li>Здесь можно ознакомиться с моим <a href="https://github.com/PolinaPonomar/Portfolio">портфолио<a></li>
+  <li>На данный момент участвую в разработке сервиса по онлайн-подбору недвижимости. Tекущую версию сервиса можно посмотреть здесь: <a href="http://95.217.17.247/">Novostroy<a></li>
 </ul>
 
 <h3 align="left">Связаться со мной: <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a></h3>
@@ -18,6 +18,7 @@
   <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
