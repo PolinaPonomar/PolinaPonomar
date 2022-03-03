@@ -11,7 +11,10 @@
   <li>Нахожусь в поиске работы: хочу развиваться в области фронтед-разработки и приносить пользу команде</li>
 </ul>
 
-<h3 align="left">Связаться со мной: <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a></h3>
+<h3 align="left">Связаться со мной: 
+  <a href="https://t.me/polina_ponomareva1"><img alt="Telegram" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/></a>
+  <a href="https://www.linkedin.com/in/polina-ponomareva-9938ba231/"><img alt="Linkedin" align="center" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+ </h3>
 
 <h3>Мой стек:</h3>
 <p>
